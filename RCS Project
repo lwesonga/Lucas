@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data file into a pandas DataFrame
-df = pd.read_csv(" /Users/lucaswesonga/Documents/Personal\ projects/qanalytics.py")
+df = pd.read_csv(" /Users/lucaswesonga/Documents/Projects/RCS/Datafile.txt")
 
 # Fetch all data on the "qanalytics" field
 qanalytics_data = df['qanalytics']
